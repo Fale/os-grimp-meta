@@ -1,0 +1,12 @@
+/desktop/gnome/background/picture_filename	/usr/share/backgrounds/grimp_sfondo.png
+/desktop/gnome/background/picture_options	centered
+/apps/metacity/general/button_layout menu:minimize,maximize,close
+
+/apps/nautilus/preferences/exit_with_last_window	false
+/apps/nautilus/desktop/home_icon_visible	true
+/apps/nautilus/desktop/computer_icon_visible	true
+/apps/nautilus/desktop/trash_icon_visible	true
+/apps/nautilus/desktop/home_icon_name		Cartelle Personali
+
+/apps/gnome-do/preferences/Do/CorePreferences/QuietStart true
+

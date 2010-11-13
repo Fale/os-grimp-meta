@@ -1,0 +1,126 @@
+grimp-meta (2.0) maverick; urgency=low
+
+  *Final release
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Fri, 22 Oct 2010 16:02:50 +0200
+
+
+grimp-meta (0.9.0) maverick; urgency=low
+
+  *Added an extended language support
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Tue, 19 Oct 2010 16:33:50 +0200
+
+grimp-meta (0.0.18) maverick; urgency=low
+
+  *Changed background
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Mon, 18 Oct 2010 16:21:50 +0200
+
+grimp-meta (0.0.17) maverick; urgency=low
+
+  *Corrected dependencies
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Fri, 15 Oct 2010 21:02:50 +0200
+
+grimp-meta (0.0.16) maverick; urgency=low
+
+  *Corrected (another) stupid typo
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Thu, 14 Oct 2010 17:23:50 +0200
+
+grimp-meta (0.0.15) maverick; urgency=low
+
+  *test with light
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Thu, 14 Oct 2010 17:08:50 +0200
+
+grimp-meta (0.0.14) maverick; urgency=low
+
+  *Corrected (another) stupid typo
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 3 Oct 2010 19:59:50 +0200
+
+grimp-meta (0.0.13) maverick; urgency=low
+
+  *Changed (again) background
+  *Removed nautilus-arista and nautilus-wallpaper (because they're not translated)
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 3 Oct 2010 19:44:50 +0200
+
+grimp-meta (0.0.12) maverick; urgency=low
+
+  *Corrected a stupid typo
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 3 Oct 2010 12:59:50 +0200
+
+grimp-meta (0.0.11) maverick; urgency=low
+
+  *Changed background
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Sun, 3 Oct 2010 11:50:50 +0200
+
+grimp-meta (0.0.10) maverick; urgency=low
+
+  *Corrected typo
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 24 Sep 2010 18:41:50 +0200
+
+grimp-meta (0.0.9) maverick; urgency=low
+
+  * Added w32codecs, gnome-backgrounds
+  * Removed gimp  docs
+  * Changed and centered background
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Tue, 28 Sep 2010 22:08:50 +0200
+
+grimp-meta (0.0.8) maverick; urgency=low
+
+  * Fixed backround and artwork regression
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Mon, 27 Sep 2010 21:35:50 +0200
+
+grimp-meta (0.0.7) maverick; urgency=low
+
+  * Added wallpaper
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Mon, 27 Sep 2010 20:19:50 +0200
+
+grimp-meta (0.0.6) maverick; urgency=low
+
+  * Removed medibuntu - its repo needs to be added before
+  * Added software
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Mon, 27 Sep 2010 19:02:50 +0200
+
+grimp-meta (0.0.5) maverick; urgency=low
+
+  * Added grimp-artwork
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Fri, 24 Sep 2010 20:26:50 +0200
+
+grimp-meta (0.0.4) maverick; urgency=low
+
+  * Merge test
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Fri, 24 Sep 2010 20:22:50 +0200
+
+
+grimp-meta (0.0.3) maverick; urgency=low
+
+  * First maverick real package.
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Fri, 24 Sep 2010 19:29:50 +0200
+
+grimp-meta (0.0.2) maverick; urgency=low
+
+  * Build Test.
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 23 Sep 2010 17:47:50 +0200
+
+grimp-meta (0.0.1) maverick; urgency=low
+
+  * Initial port to Maverick.
+
+ -- Giuseppe Bruno De Luca <bdeluca@grimp.eu>  Wed, 23 Sep 2010 17:26:50 +0200
+

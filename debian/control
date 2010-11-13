@@ -1,0 +1,51 @@
+Source: grimp-meta
+Section: misc
+Priority: extra
+Maintainer: Giuseppe Bruno De Luca <bdeluca@grimp.eu>
+Build-Depends: cdbs, debhelper (>= 7)
+Standards-Version: 1.0
+
+
+Package: grimp-desktop
+Architecture: all
+Depends: ubuntu-desktop, grimp-desktop-italian, ubuntu-restricted-extras, grimp-artwork
+Recommends: ubuntu-docs, gnome-user-guide, arista, cheese, emesene, gnome-do, gnome-games, gnome-games-extra-data, gnome-backgrounds, grimp-restricted-extras, gwibber-themes, libglew1.5, nautilus-gksu, pinta, simple-ccsm, skype
+Section: metapackages
+Priority: optional
+Description: Il sistema Desktop Grimp
+ Questo pacchetto è fondamentale. Non rimuovere.
+
+Package: grimp-desktop-light
+Architecture: all
+Depends: ubuntu-desktop, grimp-artwork
+Recommends: flashplugin-installer, gstreamer0.10-plugins-bad, gstreamer0.10-plugins-bad-multiverse, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-ugly-multiverse, gstreamer0.10-ffmpeg, gstreamer0.10-fluendo-mp3, gstreamer0.10-pitfdll, unrar, ttf-mscorefonts-installer, arista, cheese, emesene, gnome-do, nautilus-gksu, pinta, simple-ccsm, skype, language-pack-gnome-it, language-pack-gnome-it-base, language-pack-it, language-pack-it-base, grimp-restricted-extras
+Section: metapackages
+Priority: optional
+Description: Il sistema Light Grimp
+ Questo pacchetto è fondamentale. Non rimuovere.
+
+
+Package: grimp-desktop-italian
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: aspell-it, doc-linux-it, fortunes-it, fortunes-it-off, gnome-user-guide-it, language-pack-gnome-it, language-pack-gnome-it-base, language-pack-it, language-pack-it-base, language-support-it, language-support-writing-it, myspell-it, openoffice.org-help-it, openoffice.org-hyphenation-it, openoffice.org-l10n-it, openoffice.org-thesaurus-it, witalian
+Description: Pacchetti per la lingua italiana.
+
+Package: grimp-desktop-languages-support
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: openoffice.org-l10n-bn, gnome-user-guide-bn, openoffice.org-help-de, openoffice.org-l10n-de, gnome-user-guide-de, openoffice.org-l10n-en-gb, gnome-user-guide-en, openoffice.org-help-en-gb, openoffice.org-l10n-en-za, openoffice.org-hyphenation, openoffice.org-hyphenation-en-us, openoffice.org-thesaurus-en-au, openoffice.org-thesaurus-en-us, openoffice.org-help-es, gnome-user-guide-es, openoffice.org-l10n-es, openoffice.org-l10n-xh, openoffice.org-help-zh-cn, gnome-user-guide-zh, openoffice.org-l10n-zh-cn, openoffice.org-l10n-pt-br, openoffice.org-help-pt-br, gnome-user-guide-pt, openoffice.org-help-pt, openoffice.org-l10n-pt
+Description: Pacchetti di supporto per le principali lingue.
+
+Package: grimp-restricted-extras
+Architecture: all
+Depends: app-install-data-medibuntu, bcmwl-kernel-source, bcmwl-modaliases, libdvdcss2, w32codecs
+Recommends:
+Section: metapackages
+Priority: optional
+Description: Utili pacchetti di Medibuntu. Richiede il repository medibuntu attivo https://help.ubuntu.com/community/Medibuntu
+
+Package: grimp-artwork
+Architecture: all
+Depends: ubuntu-artwork
+Description: Tema Grimp
